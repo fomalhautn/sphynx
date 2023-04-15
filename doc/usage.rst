@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+git clone https://github.com/fomalhautn/sphynx.git
 
 
 
